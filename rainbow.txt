@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn is
+The Rainbow and the Unicorn and the Ponny is
 
 Purple
 Green
@@ -6,6 +6,7 @@ Blue
 Yellow
 Unicorn
 Violet
+Ponny
 Red
 Indigo
-These are the colors of Rainbow and the Unicorn.
+These are the colors of Rainbow and the Unicorn and the Ponny.
