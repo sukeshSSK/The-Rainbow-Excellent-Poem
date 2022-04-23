@@ -5,4 +5,5 @@ Blue
 Yellow
 Violet
 Red
+Indigo
 These are the colors of Rainbow.
